@@ -21,7 +21,7 @@ const ContactPage = () => (
             <div className="col-md-2 no-padding-left col-sm-4">
                 <div className="atail-place">
                     <span className="atail-place-title">Lille</span>
-                    <span className="atail-place-text">Addresse<span>27, rue Branly<br/>59000 Lille<br/>France</span></span>
+                    <span className="atail-place-text">Adresse<span>27, rue Branly<br/>59000 Lille<br/>France</span></span>
                     <span className="atail-place-text">Tél<span><a href="tel:+33366721352"><span>+33 3 66 72 13 52</span></a></span></span>
                 </div>
             </div>
