@@ -1,2 +1,0 @@
-# netvolution-www
-Netvolution site
